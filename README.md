@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-lagns/?username=sreyesg&langs_count=10&theme=nord&layout=compact&count_private=true)
 <!--
 **sreyesg/sreyesg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
